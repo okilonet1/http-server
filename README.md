@@ -12,7 +12,7 @@ This program allows you to share files in a specified directory on your computer
 - Prompts for the directory to share
 - Prompts for a username and password for authentication
 - Logs all files downloaded with timestamps
-- All logs are stored in a file called `ftp-server.logs`
+- All logs are stored in a file called `http-server.logs`
 - Displays the URL the site can be accessed from after the server starts
 - Start button alternates between start and stop
 - Error logging and quitting if an error occurs

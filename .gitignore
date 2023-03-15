@@ -1,0 +1,8 @@
+# Ignore the virtual environment
+env/
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+dream.py
+http-server.logs
